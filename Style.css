@@ -1,0 +1,26 @@
+.navbar{
+background-color: #008000;
+overflow: hidden;
+}
+.navbar a { <!-- Changes the style of the navbar -->
+  float:left;
+  color:#000000;
+  text-align: center;
+  padding-left: 200px;
+  padding-top: 25px;
+  padding-bottom: 200px;
+  padding-rght: 25px;
+  text-decoration: underline;
+  font-size: 25px
+  font-family: fantasy;
+}
+
+.navbar a:hover{
+  background-color: #808080;
+}
+.pic1{
+  padding-top: 20px;
+}
+.main{
+  background-color: 008000;
+}
